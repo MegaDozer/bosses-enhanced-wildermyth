@@ -1,1 +1,1 @@
-Unzip my diles before installing
+Unzip my files before installing
