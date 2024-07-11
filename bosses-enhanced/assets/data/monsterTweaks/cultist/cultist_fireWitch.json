@@ -1,0 +1,18 @@
+{
+"modId": "Owens_mod",
+"newAspects": [
+	"mystic_interfuse",
+	"mysticGreenhorn_arches_upgrade",
+	"mysticDeck_naturalist_upgrade"
+],
+"stats": {
+	"HEALTH": "50",
+	"MELEE_ACCURACY": "99",
+	"ARMOR": "5",
+	"RANGE_ACCURACY": "99",
+	"SPEED": "8",
+	"WARDING": "5",
+	"STUNT_CHANCE": "50"
+},
+"scale": [ "1.25" ]
+}
